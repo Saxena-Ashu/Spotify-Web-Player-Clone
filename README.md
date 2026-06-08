@@ -3,7 +3,7 @@ A fully functional Spotify-like web music player built with modern web technolog
 
 🌐 Live Demo
 👉 Check it out here
-( [ashu-spotify-web-player-clone.rf.gd](https://ashu-spotify.rf.gd/))
+( (https://saxena-ashu.github.io/Spotify-Web-Player-Clone/))
 
 📋 Features
 
